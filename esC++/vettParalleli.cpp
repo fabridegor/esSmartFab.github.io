@@ -80,7 +80,6 @@ void stampaVett (int vettore[], int vettore2[], int dimensione){ // funzione che
 
 int main(){
 
-	int dim = MAX+MAX;
 	int matricola [MAX];
 	int voti [MAX];
 	cout << "Inserisci rispettivamente matricola e voti..." << endl;
